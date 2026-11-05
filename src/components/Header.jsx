@@ -14,7 +14,7 @@ export default function Header() {
       <div className="mx-auto flex max-w-3xl items-center justify-between px-4 py-3">
         <Link to="/" className="flex items-center gap-2 text-lg font-extrabold text-white">
           <BookOpen size={20} className="text-lima" />
-          Repertório
+          Andrepertórios
         </Link>
         <nav>
           <NavLink to="/biblioteca" className={linkClass}>

@@ -48,9 +48,9 @@ export default function Home() {
     <div className="animate-fade-in">
       <section className="text-center">
         <h1 className="text-4xl font-extrabold tracking-tight text-white sm:text-5xl">
-          Repertório
+          Andrepertórios
         </h1>
-        <p className="mt-3 font-semibold text-lima">Estude referências. Construa argumentos.</p>
+        <p className="mt-3 font-semibold text-lima">Rumo aos 900+</p>
         <p className="mx-auto mt-4 max-w-md text-sm leading-relaxed text-gray-400">
           Encontre referências socioculturais para a sua redação e veja como
           aplicá-las no texto, com fontes que você pode conferir.
